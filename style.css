@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Anton', sans-serif;
+}
+
+.headercontent{
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.aboutus{
+    
+    text-decoration-color: gray;
+    text-decoration-line: underline;
+}
+
+/* #footer{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    background-color: #ffadad;
+} */
+
+.footer {
+    background: #ffadad;
+    color: black;
+    width: 100%;
+  }
+  
+  footer a {
+    color: black;
+  }
+  
+  footer a:hover {
+    color: black;
+  }
+  
+  .footer li {
+    color: black;
+  }
