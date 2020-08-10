@@ -1,1 +1,1 @@
-alert('Our App to be launch soon')
+// alert('Our App to be launch soon')
