@@ -202,3 +202,34 @@ padding: 30px 450px;
 
 
 }
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 30%;
+  
+}
+
+.fa:hover {
+  opacity: 0.3;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #cf1361;
+  color: white;
+}
